@@ -19,11 +19,11 @@ Aplicação desenvolvida em Python para gerenciamento e organização de informa
 
 ## 📸 Screenshots
 
-![Médicos](imgs/img1.png)
-
-![Pacientes](imgs/img2.png)
-
-![Marcar consulta](imgs/img3.png)
+<p align="center">
+  <img src="imgs/img1.png" alt="Médicos" width="250">
+  <img src="imgs/img2.png" alt="Pacientes" width="250">
+  <img src="imgs/img3.png" alt="Marcar consulta" width="250">
+</p>
 
 ## ⚙️ Como Executar
 
